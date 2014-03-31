@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+        <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+        <div class="entry-content">
+          <p>{{ page.content }}</p>
+        </div>
+
+        <h5 class="subheader">
+          <span class="byline author vcard">Posted by <span class="fn">{{ page.author }}</span></span>
+          <small class="meta">{{ post.date | date:"%B %d, %Y" }} </small>
+        </h5>

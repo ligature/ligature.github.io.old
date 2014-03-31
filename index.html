@@ -1,0 +1,9 @@
+---
+layout: default
+title: Chef Ninja 
+---
+{% for post in site.posts %}
+    <div class="twelve columns" style="padding-top:30px">
+      {% include post.html %}
+    </div>
+{% endfor %}

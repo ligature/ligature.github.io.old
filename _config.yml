@@ -1,0 +1,5 @@
+name:  Ruby Coder by day - Chef Ninja by night
+markdown: redcarpet
+pygments: true
+permalink: pretty
+baseurl:
