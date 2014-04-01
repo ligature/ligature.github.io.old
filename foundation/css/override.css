@@ -40,4 +40,7 @@ code {background: none}
 
 .top-bar-section ul {background: none}
 
-#copyright {background: #111}
+#copyright {padding-top: 200px}
+
+.vcard {border: none}
+
