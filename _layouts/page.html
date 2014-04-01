@@ -9,5 +9,5 @@ layout: default
 
         <h5 class="subheader">
           <span class="byline author vcard">Posted by <span class="fn">{{ page.author }}</span></span>
-          <small class="meta">{{ page.date | date:"%B %d, %Y" }} </small>
+          <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%B %d, %Y" }}</time>
         </h5>

@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: "Chef-Metal and the future of bootstrapping"
 date: 2014-03-31 00:34:20 +0000
 author: Ryan Lewon
-comments: true
 categories: 
 ---
 
