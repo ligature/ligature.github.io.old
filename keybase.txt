@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/xorl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://xorl.net
+  * I am xorl (https://keybase.io/xorl) on keybase.
+  * I have a public key with fingerprint B461 0F22 02F7 B55B 7820  4D2B 2A7D FFA0 F7B4 F384
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b4610f2202f7b55b78204d2b2a7dffa0f7b4f384",
+            "host": "keybase.io",
+            "key_id": "2a7dffa0f7b4f384",
+            "uid": "a65c32c3c25708ccc18b08e887e97400",
+            "username": "xorl"
+        },
+        "service": {
+            "hostname": "xorl.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397976590,
+    "expire_in": 157680000,
+    "prev": "dc9bf2f535efa2c910bb901c6bb923e7728454083c9d41326b9ed194da741a4d",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.8
+Comment: https://keybase.io/crypto
+
+yMHhAnicbZFdSBRfGMZ3c1UU0jWKoECXIQlrd5s5873m/0IhCEMkC4qidT7O6KTO
+rLOz2y6rK3RnZIkUuJbZhR8l9qVkXWwputSFWCqF2QdIYJkXXQT9hcryjBR00bl5
+Ob/3eZ73HN7U5jRbtt01PDZKjHgK7FPjKyFbVZWWE8NEXY5ivhhWBzeKomo10AgY
+qmZiPkykGAJXAMCBwoo0LbIcwCkZiEBgZUURcEQpheQozI3V6kHLgWJEIQi9qo4Y
+uvhVGdF/6EMbDYGhJRJIpARoFuckSSI4Eecgx7GQZykct4RBaGhCA0TqiG7UY81u
+DJGwKiES2xj7V9erQRN5AoZu6pJej2itaQZ8lsmMBizVGSj6f/v9oqrJ6L/IEIZG
+UNU1zEcgpWSqViBB8izPMjSPuzEYCagG9KuWgmYZDkfHGgPDKFKWeFEBCk3SUBGA
+xBO4KPI4ITGoABKyLOAomsI5UuJliiABI/JQJnhKFliKECgZzQ/CRk1H2QC9U6hB
+mUG1RhPMkAGx5onxkw6bPduWkb7JWpktO8v5Z5Ejicw15+Gi5z/j8RJXpyO/Ymhh
+94o7LT/ZEP+w9NmRU9I2veXV8fYnJ7bF3rTuijzNq79WWFyxGN3fFo1euFQ3/cvr
+nDswUaef9rpcz16U3WjfXt04WzwVrZzsvx9fHug7N7jcX/Lfntylj2UZZelvHz+c
+OJZwdN0aet0XGxhNlBeNDabP+PDz9yIti+Oric68taWGTzDTUyp0fOkFTPnZuct0
+d6gxK3Kx6X0llfwfq4JzyUeppu4jO+wL75wa/tXz8kdl5t75rf7C1oN+cact0Fv9
+fXYV6wnMdF0P35FTLd9aJ5mjhzpyB3sKtKupB1eK94nDt5N3I6VG5CY41Z3rmV8H
+1KoN/w==
+=Vc7R
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xorl
+
+==================================================================
+
