@@ -1,5 +1,5 @@
-name:  Ruby Coder by day - Chef Ninja by night
+name: ligature.io - combining development and operations 
 markdown: redcarpet
 pygments: true
 permalink: pretty
-baseurl:
+baseurl: ligature.io
